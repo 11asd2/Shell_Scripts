@@ -1,0 +1,1 @@
+Two shell scripts. The first one mimicks the ps -eo pid,user,rss,args command. The second one is more specific to a school assignment where specific details about source files (main() or kernel modules) are printed out. 
